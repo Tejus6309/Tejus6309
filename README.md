@@ -1,7 +1,9 @@
 # 👋 Hi, I'm Tejus
 
 🎓 CSE Student
+
 💻 Currently learning: C , JavaScript
+
 🚀 Interested in building real-world projects and improving problem-solving skills
 
 ---
