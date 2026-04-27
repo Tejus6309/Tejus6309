@@ -11,7 +11,7 @@
 ## 🔧 Tech Stack
 
 * 💻 Languages: C, Python , JavaScript, HTML, CSS
-* 🛠 Tools: Git, GitHub, VS Code
+* 🛠 Tools: Git, GitHub, VS Code, Antigravity
 
 ---
 
