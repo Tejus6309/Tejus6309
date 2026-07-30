@@ -9,6 +9,7 @@
 # 🔧 Tech Stack  
 
 ## 💻 Languages
+- Java
 - C  
 - Python  
 - JavaScript  
